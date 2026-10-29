@@ -16,3 +16,9 @@ app/release/
 /.idea/workspace.xml
 /.idea/navEditor.xml
 /.idea/assetWizardSettings.xml
+
+.project
+.settings/
+*.classpath
+*.project
+spotify/bin/
